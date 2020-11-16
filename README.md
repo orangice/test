@@ -58,7 +58,7 @@
 	<div class="row">
 		<div class="col nav">
 			<ul class="pc-nav">
-				<li>首页;javascript:alert(0)</script></li>
+				<li><a href="javascript:alert(0)">aaa</a</li>
 				<li><a href="/html/html-tutorial.html">HTML</a></li>
 				<li><a href="/css/css-tutorial.html">CSS</a></li>
 				<li><a href="/js/js-tutorial.html">JavaScript</a></li>
