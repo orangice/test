@@ -58,7 +58,7 @@
 	<div class="row">
 		<div class="col nav">
 			<ul class="pc-nav">
-				<li><a href="javascript:alert(0)">aaa</a</li>
+				<li><a href="http://ba"idu.com;javascript:alert(0)">aaa</a</li>
 				<li><a href="/html/html-tutorial.html">HTML</a></li>
 				<li><a href="/css/css-tutorial.html">CSS</a></li>
 				<li><a href="/js/js-tutorial.html">JavaScript</a></li>
