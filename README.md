@@ -1,5 +1,5 @@
 # <a>test</a>
 xss-test
-
-[aa]()
+aaa<-->
+[<!-->aa]()
 ![[javascript:alert(0);](https://aa.com)](https://baidu,com)
