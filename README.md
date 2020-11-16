@@ -1,4 +1,4 @@
 # \<a\>test\</a\>
 xss-test
 
-[aaa](https://baidu.com/<>)
+[aaa](https://baidu<>.com/<>)
