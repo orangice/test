@@ -1,2 +1,2 @@
 # aa
-# ![aa](a.js)
+# ![aa](file://C://aa.js)
