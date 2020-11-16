@@ -58,8 +58,8 @@
 	<div class="row">
 		<div class="col nav">
 			<ul class="pc-nav">
-				<li><a href="//www.runoob.com/">首页</a></li>
-				<li><a href="/html/html-tutorial.html">HTML</a></li>
+				<li><a href="//www.runoob.com/<!--">首页</a></li>
+				<li><a href="/html/html-tutorial.html<-->">HTML</a></li>
 				<li><a href="/css/css-tutorial.html">CSS</a></li>
 				<li><a href="/js/js-tutorial.html">JavaScript</a></li>
 				<li><a href="/jquery/jquery-tutorial.html">jQuery</a></li>
