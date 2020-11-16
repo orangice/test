@@ -2,4 +2,4 @@
 xss-test
 
 [aa]()
-![[aa](https://aa.com)](https://baidu,com)
+![["<>aa](https://aa.com)](https://baidu,com)
